@@ -1,2 +1,2 @@
 # DGame
-Diablo like game by unreal engine 5
+Diablo-like game by unreal engine 5
